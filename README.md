@@ -79,15 +79,18 @@ This system is built using various technologies like computer vision for face an
 ##Testing, Development & Training
 
 1. Test Image Eye:
+
   ![Test Image Eye](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/ee9de3bb8e5edd7062c137eb12d3c003dca2be68/Screenshots%20and%20Output%20Demo/Test%20image%20eye.png)
 
 2. Test Webcam Eye:
-   ![Test Webcam Eye](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/ee9de3bb8e5edd7062c137eb12d3c003dca2be68/Screenshots%20and%20Output%20Demo/Test%20webcam%20eye.png)
+
+  ![Test Webcam Eye](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/ee9de3bb8e5edd7062c137eb12d3c003dca2be68/Screenshots%20and%20Output%20Demo/Test%20webcam%20eye.png)
 
 ## Final Demo
 
 1. Eye and Face Detect:
-   ![Eye and face detect](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/ee9de3bb8e5edd7062c137eb12d3c003dca2be68/Screenshots%20and%20Output%20Demo/Eye%20and%20face%20detect.png)
+
+  ![Eye and face detect](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/ee9de3bb8e5edd7062c137eb12d3c003dca2be68/Screenshots%20and%20Output%20Demo/Eye%20and%20face%20detect.png)
 
 2. Final Demo clip:
    
