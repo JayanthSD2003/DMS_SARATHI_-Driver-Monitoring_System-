@@ -1,4 +1,5 @@
 # SARATHI - DMS - Driver Monitoring System 
+SARATHI (Safety Assisted Responsive Automated Technology for Highway Independance)
 ## Using Python
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
@@ -22,7 +23,7 @@
 
 ## Technical Description
 
-The Driver Monitoring System (DMS) leverages computer vision and machine learning to detect driver drowsiness in real-time using webcam video feeds. The system is constructed using several key technologies:
+The SARATHI (Safety Assisted Responsive Automated Technology for Highway Independance) - Driver Monitoring System (DMS) leverages computer vision and machine learning to detect driver drowsiness in real-time using webcam video feeds. The system is constructed using several key technologies:
 
 ### Libraries and Modules:
 - **OpenCV**: Utilized for video capture and image processing, including converting frames to grayscale and detecting faces.
@@ -55,7 +56,7 @@ NOTE: Download the shape_predictor_68_face_landmarks.dat file from the following
 
 ## Non-Technical Description
 
-The Driver Monitoring System is designed to help drivers stay awake and alert while on the road. Here's how it works:
+The SARATHI_DMS: (Safety Assisted Responsive Automated Technology for Highway Independance_Driver Monitoring System) is designed to help drivers stay awake and alert while on the road. Here's how it works:
 
 ### Keeping an Eye on You
 The system uses a webcam to watch the driver’s face in real-time. It looks for signs that the driver might be getting sleepy.
