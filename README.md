@@ -94,5 +94,5 @@ This system is built using various technologies like computer vision for face an
 
 2. Final Demo clip:
 
-  [![Final Demo clip]([https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/097c3661322e480a4f9aeb3616dc5b57b15a362b/Screenshots%20and%20Output%20Demo/Eye%20and%20face%20detect.png))](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/097c3661322e480a4f9aeb3616dc5b57b15a362b/Screenshots%20and%20Output%20Demo/Screen%20Recording%202024-10-29%20180329.mp4)
+  [![Final Demo clip](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/097c3661322e480a4f9aeb3616dc5b57b15a362b/Screenshots%20and%20Output%20Demo/Eye%20and%20face%20detect.png)](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/097c3661322e480a4f9aeb3616dc5b57b15a362b/Screenshots%20and%20Output%20Demo/Screen%20Recording%202024-10-29%20180329.mp4)
 
