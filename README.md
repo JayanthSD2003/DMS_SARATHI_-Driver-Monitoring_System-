@@ -34,7 +34,7 @@ The Driver Monitoring System (DMS) leverages computer vision and machine learnin
 
 ### Eye Aspect Ratio (EAR):
 The EAR is computed by detecting the coordinates of the eyes and calculating the distances between specific points. The formula is:
-![EAR Formula](D:\Projects\SARATHI\SARATHI_DMS_Driver_Drowsiness\EAR Formula.png)
+![EAR Formula](https://github.com/JayanthSD2003/DMS_SARATHI_-Driver-Monitoring_System-/blob/443c73525ccf421f63bfc9504dc062efe8ef1efd/EAR%20Formula.png)
 where A and B are the vertical distances and C is the horizontal distance.
 
 ### Drowsiness Detection Logic:
