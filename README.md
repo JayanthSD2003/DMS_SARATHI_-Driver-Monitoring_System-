@@ -51,6 +51,9 @@ where A and B are the vertical distances and C is the horizontal distance.
 3. **Alert Mechanism**: If the EAR is below the threshold long enough, an audio alert and a verbal warning are triggered.
 4. **Clean-Up**: Releases the video capture and closes all OpenCV windows when the program ends.
 
+NOTE: Download the shape_predictor_68_face_landmarks.dat file from the following link:
+  https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
+
 ## Non-Technical Description
 
 The Driver Monitoring System is designed to help drivers stay awake and alert while on the road. Here's how it works:
