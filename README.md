@@ -12,7 +12,6 @@
 [![Dlib](https://img.shields.io/badge/dlib-19.24.2-blue)](https://pypi.org/project/dlib/)
 [![OpenCV-Python Specific Version](https://img.shields.io/badge/opencv--python-4.8.1.78-blue)](https://pypi.org/project/opencv-python/4.8.1.78/)
 [![Pyttsx3](https://img.shields.io/badge/pyttsx3-2.90-blue)](https://pypi.org/project/pyttsx3/)
-[![SpaCy](https://img.shields.io/badge/spacy-3.7.2-blue)](https://pypi.org/project/spacy/)
 
 [![VS Code](https://img.shields.io/badge/Made%20with-VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Made with Anaconda Navigator](https://img.shields.io/badge/Made%20with-Anaconda%20Navigator-green.svg)](https://docs.anaconda.com/anaconda/navigator/)
