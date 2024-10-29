@@ -56,7 +56,7 @@ NOTE: Download the shape_predictor_68_face_landmarks.dat file from the following
 
 ## Non-Technical Description
 
-The SARATHI_DMS: (Safety Assisted Responsive Automated Technology for Highway Independance_Driver Monitoring System) is designed to help drivers stay awake and alert while on the road. Here's how it works:
+The Driver Monitoring System is designed to help drivers stay awake and alert while on the road. Here's how it works:
 
 ### Keeping an Eye on You
 The system uses a webcam to watch the driver’s face in real-time. It looks for signs that the driver might be getting sleepy.
